@@ -6,7 +6,8 @@
 </p>
 <br/>
 
-# Chainlink Hardhat Box
+#Seedblocks
+
  Implementation of the following 3 Chainlink features using the [Hardhat](https://hardhat.org/) development environment:
  - [Request & Receive data](https://docs.chain.link/docs/request-and-receive-data)
  - [Chainlink Price Feeds](https://docs.chain.link/docs/using-chainlink-reference-contracts)
